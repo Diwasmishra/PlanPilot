@@ -1,4 +1,4 @@
-# 🧠 Smart Todo App (Next.js + Django + Supabase + LLaMA 7B)
+# 🧠 Plan Pilot Todo App (Next.js + Django + Supabase + LLaMA 7B)
 
 An intelligent Plan Pilot todo app that combines a modern frontend, a powerful Django backend, local LLM-based AI, and a scalable cloud database. Built to demonstrate full-stack integration, backend API development, and local AI usage — all in one project.
 
